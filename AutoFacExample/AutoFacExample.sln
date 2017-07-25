@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication2", "ConsoleApplication2\ConsoleApplication2.csproj", "{EE5F65CD-B5D9-4CF5-BC9C-C318938547BA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoFacExample", "AutoFacExample\AutoFacExample.csproj", "{3BAEF630-D0F8-430E-A968-85C9D90868C0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{EE5F65CD-B5D9-4CF5-BC9C-C318938547BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{EE5F65CD-B5D9-4CF5-BC9C-C318938547BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{EE5F65CD-B5D9-4CF5-BC9C-C318938547BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{EE5F65CD-B5D9-4CF5-BC9C-C318938547BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BAEF630-D0F8-430E-A968-85C9D90868C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BAEF630-D0F8-430E-A968-85C9D90868C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BAEF630-D0F8-430E-A968-85C9D90868C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BAEF630-D0F8-430E-A968-85C9D90868C0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
