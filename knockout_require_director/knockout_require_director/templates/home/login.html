@@ -1,0 +1,16 @@
+﻿<div>
+    <!-- ko with: $root.data()-->
+    <div>
+        <span>UserName: </span>
+        <input type="text" data-bind="value: $data.userName" />
+    </div>
+    <div>
+        <span>Password: </span>
+        <input type="password" data-bind="value: $data.password" />
+    </div>
+    <div>
+        <input type="button" data-bind="click: $data.login" value="Login" />
+    </div>
+    <!-- /ko -->
+    <a href="#/signup">Sign Up</a>
+</div>
